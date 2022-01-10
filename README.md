@@ -6,7 +6,7 @@
 
 ## Game Link :
 
-<a href="https://amirahalmani.github.io/Tic-Tac-Toe/">Click Here </a>
+<a href="https://aalmani1.github.io/Tic-Tac-Toe/">Click Here </a>
 
 ## List technologies used to build tic tac toe I used
 
